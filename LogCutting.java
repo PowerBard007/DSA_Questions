@@ -49,7 +49,7 @@ class LogCutting
             System.exit(0);
         
         long cost=0;
-        int l1,l2,i;
+        int l1,l2;
         
         if(m>k)
         {
